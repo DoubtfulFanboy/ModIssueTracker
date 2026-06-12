@@ -17,6 +17,8 @@ assignees: ''
 
 ## Project
 
+Put an X in the brackets for the mod you have an issue with.
+
 - [ ] Bundle Expansion
 - [ ] Isometric Chunk
 - [ ] Nylium Nasturtium
